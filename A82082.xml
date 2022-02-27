@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration from his Excellencie, with the advice of his Councel of War: concerning the present distempers of part of Commissary Generall Iretons and of Colonel Scroops regiments to undeceive the deluded party, and to leave those excuselesse who refuse (upon pardon herein offered) to return to their former obedience. / Signed by the order and appointment of his Excellencie the Lord Fairfax, Lord Generall and his Councell of War. Aulton, Hamshire. May 12. 1649. Ri. Hatter Secret.</title>
+            <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82082</idno>
+            <idno type="STC">Wing D584</idno>
+            <idno type="STC">Thomason E555_6</idno>
+            <idno type="STC">ESTC R204515</idno>
+            <idno type="EEBO-CITATION">99864002</idno>
+            <idno type="PROQUEST">99864002</idno>
+            <idno type="VID">165099</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82082)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165099)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E555[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration from his Excellencie, with the advice of his Councel of War: concerning the present distempers of part of Commissary Generall Iretons and of Colonel Scroops regiments to undeceive the deluded party, and to leave those excuselesse who refuse (upon pardon herein offered) to return to their former obedience. / Signed by the order and appointment of his Excellencie the Lord Fairfax, Lord Generall and his Councell of War. Aulton, Hamshire. May 12. 1649. Ri. Hatter Secret.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>England and Wales. Army. Council.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.R. &amp; E.M. for R.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scrope, Adrian, 1601-1660 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  17th century.</term>
+               <term>Levellers --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165099:1" rendition="simple:additions"/>
+            <p>A DECLARATION From his Excellencie, with the Advice of his COUNCEL of WAR: Concerninghe preſent diſtempers of part of Commiſſary Generall <hi>Iretons</hi> and of Colonel <hi>Scroops</hi> Regiments to undeceive the deluded party, and to leave thoſe excuſeleſſe who re<g ref="char:EOLhyphen"/>fuſe (upon pardon herein offered) to return to their former obedience.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Signed by the Order and appointment of his Excellencie the Lord <hi>Fairfax,</hi> Lord Generall and his Councell of War.</p>
+                        <closer>
+                           <dateline>Aulton, Hamſhire. <date>MAY 12. 1649.</date>
+                           </dateline> 
+                           <signed>
+                              <hi>Ri. Hatter</hi> Secret.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. R.</hi> &amp; <hi>E. M.</hi> for <hi>R. M.</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165099:2"/>
+            <pb n="3" facs="tcp:165099:2"/>
+            <head>A <hi>Declaration</hi> from his Excellency the L. <hi>Fairfax,</hi> with the Advice of his Councel of Warre.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Eing informed by the Officers of Commiſſa<g ref="char:EOLhyphen"/>ry General <hi>Iretons</hi> Regiments, of the late un<g ref="char:EOLhyphen"/>heard of, and not to be paralell'd violation of the Government of the Army by divers Souldiers, who without and againſt their Officers (no juſt cauſe or provocation being given for their ſo doing) have ſeiſed four Colours belonging to the ſaid Regiment, and are marched away with them; and ſince of the like practiſe in Colonel <hi>Scroops</hi> Regiment, en<g ref="char:EOLhyphen"/>deavouring (as I hear) to perſwade others unto the like un<g ref="char:EOLhyphen"/>lawfull actings.</p>
+            <p>I have though fit to publicſh this <hi>Declaration</hi> to ſee if it ſhall pleaſe God, the perſons ſo offending, will be by the reaſons therein contained, convinced of the evill of their actions, and returne againe to their obedience; and to pre<g ref="char:EOLhyphen"/>vent others from the like practiſe: And if not, that I may thereby be clear from all the miſery and evill likely to en<g ref="char:EOLhyphen"/>ſue thereupon, in caſe there ſhall be a perfiſting in the ſaid diſorder, and I be neceſſitated out of the duty I owe to God, and the diſharge of my truſt to the Parliament and People of this nation to enforce a ſubmiſſion and obedience to the Au<g ref="char:EOLhyphen"/>thority committed to me for the good of the publique.</p>
+            <p>This heady and unlawfull action hath theſe two evils in
+<pb n="4" facs="tcp:165099:3"/>it, the one, againſt God and his ſacred name, the other againſt the liberty and peace of the Common-wealth.</p>
+            <p>You are not ignorant what a bleſſing hath gone along with your endeavours againſt the enemies of God, &amp; your Country, whileſt you ſtood faithfull to the truſt repoſed in you, engage<g ref="char:EOLhyphen"/>ing your ſelves againſt the Common enemy, to our liberty and peace, and all this by the preſence of God with you. But by this unwarrantable act of yours, how do you avowedly declare your diſowning of that Providence, truſting rather to the violence of your own ſpirits, then waiting to ſee what iſſue God will give to the great affaires of this Nation. And if you ſhall perſiſt herein and be the occaſions of another warre, you will give the enemy advantage to ſay, their Cauſe hath been good all along, and that now this diviſion amongſt us is a Iudgement of God upon us for oppoſing them, and doing ſuch things eſpecially in the execution of Juſtice, as doth re<g ref="char:EOLhyphen"/>joyce honeſt hearts to think of, but the enemy ſo much ſtudy to revenge.</p>
+            <p>Secondly, you do alſo diſowne the act of God in denying obedience to thoſe who by his clear Call are ſet over you, without any provocation on their part, or ſo much as reaſon given by you for your ſo doing; and herein you will be found reſiſters not of man but of God. No man is able to foreſee the manifeſt hazard likely to befall this poor waſted Nation, by this act of yours, for</p>
+            <p>Firſt, You will hereby give opportunity to the Cavaleiriſh party to ſhelter themſelves an flie to Armes under the pro<g ref="char:EOLhyphen"/>tection of this diſtemper, and</p>
+            <p>Secondly, You do manifeſtly hinder the relief of <hi>Ireland,</hi> where many perſons of honour and honeſty are ready to be ſwallowed up by thoſe blood-thirſty Rebels for maintaining the very ſame cauſe with s here: And if it ſhall happen that they be ruin'd there, what can be expected but an immediate
+<pb n="5" facs="tcp:165099:3"/>coming over of thoſe forces into <hi>England</hi> to revive their old cauſe and quarrel here.</p>
+            <p>And if I be rightly informed, I hear that you make this to be one of your pretences, to this your irregular and ungodly acting, <hi>That you are neceſſitated to go for</hi> Ireland, which if you ſhall refuſe, you ſhall be disbanded diſhonourably. Although I know, and you might have known alſo (if you would have had patience to have been rightly informed) that indeed there is not a word of truth, neither in the one nor in the o<g ref="char:EOLhyphen"/>ther; The Parliament nor my ſelfe reſolving to compell any one to that ſervice, or to puniſh in the leaſt for refuſing the ſame. The Lot being caſt (as it was) put the diſpoſall of men for that imployment upon God, who hath thereby decided it; and if you can ſatisfie your conſciences in neglecting ſo clear a cal, let that be between God and you, that being all the inforcement or compulſion that either was or is intended.</p>
+            <p>And though you may pretend that things are not ſetled for the good of this Common-wealth, yet how unwarrant<g ref="char:EOLhyphen"/>able a thing is it for you upon ſuch deceitfull pretences, ſi<g ref="char:EOLhyphen"/>thence, the ſaid things might for ought you know in due time be ſetled; nay, and are now upon a ſettlement, (if theſe diſtempers of yours hinder not) even upon a bare ſuppoſi<g ref="char:EOLhyphen"/>tion to runne into a poſitive and notorious act of mutiny and diſobedience, againſt all rules of honeſty and good con<g ref="char:EOLhyphen"/>ſcience, yea &amp; againſt the known lawfull Authority of this Nation, which hath done greater things for the good and welfare of the people, then any of their Predeceſſors have done in a thouſand years before.</p>
+            <p>And if you have not quie loſt your underſtandings and conſciences, (and are thereby become incapable of ſatisfa<g ref="char:EOLhyphen"/>ction) what reaſon have you to quarrel at the Parliaments Proceedings, who have improved their time in doing the moſt neceſſary things firſt? which if they had not in their
+<pb n="6" facs="tcp:165099:4"/>wiſedomes preferred in point of time, to thoſe you would have (for there lyeth all the ground of murmuring in diſ<g ref="char:EOLhyphen"/>contented ſpirits) the good things you pretend to, and ſome call for, could never have come in to act at all, no more then they are like now to do, if by this outragious act of yours the Land be brought into another warre; the only de<g ref="char:EOLhyphen"/>ſigne and means the Malignants and other the implacable e<g ref="char:EOLhyphen"/>nemies of the welfare of the Nation have, to keep thoſe good things from us: And therefore I ſhall deſire all men amongſt you, who are capable of ſatisfaction, a little to conſider how the Parliament have ſpent their time ſince they were free to act for the good of the Nation, and then weigh (whether the things they have done could have given place to thoſe, you, and ſome other murmuring ſpirits would have? and whether it be lawfull for you to riſe in Rebellion upon a bare ſuppoſition and pretence, that the things you ſtand for will not at all be brought to paſſe? whereas indeed the Parliament hath declared their reſoluti<g ref="char:EOLhyphen"/>ons therein, and are at this time in a hopefull way to accom<g ref="char:EOLhyphen"/>pliſh them, if they be not hindred by this ſo unwarrantable act of yours.</p>
+            <p>The Parliament begun with that great act of Juſtice, which was by good men ſo called for, and was indeed ſo neceſſary a duty to take off the pollution of innocent blood, wherewith the Land was defiled; wherein what was done, through what difficulties, and how much time was ſpent, is obvious to all unprejudiced Perſons.</p>
+            <p>In the next place the removing of the Houſe of Peers, which challenged ſo great a ſhare in the Legiſlative power, without whoſe concurrence every thing that tended to the publike good received a ſtop, and could not paſſe in<g ref="char:EOLhyphen"/>to a Law, and therefore would be without effect, whereby the Legiſlative power is brought into the Repreſentatives of
+<pb n="7" facs="tcp:165099:4"/>the People, with what difficultie this was obtained they beſt know who had the trouble of it? and what time and labour it coſt to effect this, and to make Laws againſt Kingſhip, and a Houſe of Peers, that they never returne againe upon us, (except by this Act of yours) is likewiſe moſt evident.</p>
+            <p>The next in point of time was the providing to ſecure trade by putting a fleet to ſea, and what they encountred with in this worke, the ſtores of the Navy being emptied and all treaſuries exhauſted by thoſe in Parliament, who drove on the Kings deſigne, on purpoſe to make it impoſ<g ref="char:EOLhyphen"/>ſible to get out a fleet this Summer, that by this and dis<g ref="char:EOLhyphen"/>banding the Army they might the better bring on an un<g ref="char:EOLhyphen"/>worthy and unſafe Peace with the King, and thereby cauſe our miſerie the ſubverſions of our Liberties, and Ti<g ref="char:EOLhyphen"/>ranny to fall irreſiſtably upon us; And notwithſtanding all theſe difficulties the Parliament hath to the ſecuring of Trades, and defence of the Nation from forraigne inva<g ref="char:EOLhyphen"/>ſion, put out the greateſt fleet to ſea that ever this Nation did, whereby the Trade is revived, which was almoſt ſunk, and the enemy diſappointed of their miſchievous de<g ref="char:EOLhyphen"/>ſignes againſt us.</p>
+            <p>In the laſt place before the things you ſo much urge could be thought on, it was judged by the Parliament a thing moſt neceſſary, to take off free-quarter to prepare wherewithall to relieve <hi>Ireland,</hi> and to provide for Soul<g ref="char:EOLhyphen"/>diers arrears: in all which they have ſo farre proceeded, (though with much expence of time and meeting, many ſad obſtructions by reaſon all Treaſuries were ſo anticipa<g ref="char:EOLhyphen"/>ted) that free-quarter is totally taken off, except you now againe begin it, (and then I doubt the Countrey will hardly judge you friends to their Liberties, or at all truſt your faire pretences.) The reliefe of <hi>Ireland</hi> alſo is ſo pro<g ref="char:EOLhyphen"/>vided for, as that the Souldiers who is deſigned thither
+<pb n="8" facs="tcp:165099:5"/>is equally to be paid with thoſe remaining in <hi>England,</hi> and both theirs and thoſe here, ſo taken care for in point of Arrears; as that the only beſt and moſt preſent ſecurity and ſatisfaction in <hi>England,</hi> viz. the late Kings Parks and his Revenues is by the Parliament ſetled for their ſatisfa<g ref="char:EOLhyphen"/>ction; And to the endt he Souldiery might neither be de<g ref="char:EOLhyphen"/>layed nor defrauded in the ſtating and auditing their Ac<g ref="char:EOLhyphen"/>compts, it is referred to the Field-Officers of each reſpe<g ref="char:EOLhyphen"/>ctive Regiment to performe the ſame; and if this Juſtice and favour deſerve the requitall of ſuch actings as theſe? let the whole Nation judge.</p>
+            <p>Theſe things being done, and the other things of ſettle<g ref="char:EOLhyphen"/>ment compriſed in the Agreement (preſented with all hu<g ref="char:EOLhyphen"/>mility from the Councell of the Army,) being begun upon, and now in hand, and that in particular of putting a period to this preſent Parliament, and ſetling a future equal Repre<g ref="char:EOLhyphen"/>ſentative, the firſt in their conſideration; what is the cauſe, and how will it be anſwered to God or men to have ſo raſh an act as this is, performed by you upon no provocation ſo much againſt your duty and truſt, and all obligations which may be expected from honeſt men?</p>
+            <p>For you (I ſay) to caſt off this Authority upon ſo weake and miſtaken grounds, how think you? are you able to an<g ref="char:EOLhyphen"/>ſwer the ſame?</p>
+            <p>Many things more might be urged in aggravation of this offence but becauſe <hi>I</hi> had rather ſee you returne to your obedience, then delight to put my finger upon the fore; I thought fit to let you know, that if after all this, you all, or any amongſt you ſhall ſubmit and returne, I am ready and willing to paſſe by and pardon: But if you ſhall perſiſt in your obſtinacie, <hi>I</hi> ſhall endeavour by force to reduce you, and therein put my ſelfe and the buſineſſe upon God.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
